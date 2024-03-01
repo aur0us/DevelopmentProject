@@ -1,0 +1,7 @@
+*.dll
+*.wasm
+*.gz
+*.props
+bin/
+obj/
+.vs/
