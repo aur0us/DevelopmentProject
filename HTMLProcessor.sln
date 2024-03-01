@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLProcessor", "HTMLProcessor.csproj", "{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C4A87C-0FB9-4393-BE9A-C1AC70255F17}
+	EndGlobalSection
+EndGlobal
