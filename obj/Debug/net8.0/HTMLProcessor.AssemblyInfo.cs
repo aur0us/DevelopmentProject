@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HTMLProcessor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe6e8c129c8311f481e6a39c2480faec99c9bf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("HTMLProcessor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HTMLProcessor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\Code\\HTMLProcessor\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}|HTMLProcessor.csproj|c:\\users\\blued\\onedrive - sheffield hallam university\\documents\\university\\year 4\\term 2\\dev project\\htmlprocessor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}|HTMLProcessor.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}|HTMLProcessor.csproj|c:\\users\\blued\\onedrive - sheffield hallam university\\documents\\university\\year 4\\term 2\\dev project\\htmlprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}|HTMLProcessor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}|HTMLProcessor.csproj|c:\\users\\blued\\onedrive - sheffield hallam university\\documents\\university\\year 4\\term 2\\dev project\\htmlprocessor\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}|HTMLProcessor.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}|HTMLProcessor.csproj|c:\\users\\blued\\onedrive - sheffield hallam university\\documents\\university\\year 4\\term 2\\dev project\\htmlprocessor\\service\\htmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FC9A8F-C70B-4AA1-B43B-1D88C32DB572}|HTMLProcessor.csproj|solutionrelative:service\\htmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HTMLParser.cs",
+              "DocumentMoniker": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\Service\\HTMLParser.cs",
+              "RelativeDocumentMoniker": "Service\\HTMLParser.cs",
+              "ToolTip": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\Service\\HTMLParser.cs",
+              "RelativeToolTip": "Service\\HTMLParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:06:17.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T11:04:05.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:30:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\blued\\OneDrive - Sheffield Hallam University\\Documents\\University\\Year 4\\Term 2\\Dev Project\\HTMLProcessor\\Pages\\Home.razor*",
+              "RelativeToolTip": "Pages\\Home.razor*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T09:40:29.192Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -13,27 +13,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = HTMLProcessor
 build_property.RootNamespace = HTMLProcessor
-build_property.ProjectDir = C:\Users\blued\OneDrive - Sheffield Hallam University\Documents\University\Year 4\Term 2\Dev Project\Code\HTMLProcessor\
+build_property.ProjectDir = C:\Users\blued\OneDrive - Sheffield Hallam University\Documents\University\Year 4\Term 2\Dev Project\HTMLProcessor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\blued\OneDrive - Sheffield Hallam University\Documents\University\Year 4\Term 2\Dev Project\Code\HTMLProcessor
+build_property.MSBuildProjectDirectory = C:\Users\blued\OneDrive - Sheffield Hallam University\Documents\University\Year 4\Term 2\Dev Project\HTMLProcessor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/blued/OneDrive - Sheffield Hallam University/Documents/University/Year 4/Term 2/Dev Project/Code/HTMLProcessor/App.razor]
+[C:/Users/blued/OneDrive - Sheffield Hallam University/Documents/University/Year 4/Term 2/Dev Project/HTMLProcessor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blued/OneDrive - Sheffield Hallam University/Documents/University/Year 4/Term 2/Dev Project/Code/HTMLProcessor/Layout/MainLayout.razor]
+[C:/Users/blued/OneDrive - Sheffield Hallam University/Documents/University/Year 4/Term 2/Dev Project/HTMLProcessor/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blued/OneDrive - Sheffield Hallam University/Documents/University/Year 4/Term 2/Dev Project/Code/HTMLProcessor/Pages/Home.razor]
+[C:/Users/blued/OneDrive - Sheffield Hallam University/Documents/University/Year 4/Term 2/Dev Project/HTMLProcessor/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blued/OneDrive - Sheffield Hallam University/Documents/University/Year 4/Term 2/Dev Project/Code/HTMLProcessor/_Imports.razor]
+[C:/Users/blued/OneDrive - Sheffield Hallam University/Documents/University/Year 4/Term 2/Dev Project/HTMLProcessor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
